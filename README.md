@@ -15,7 +15,7 @@ cd OhMyWin
 
 # Flags
     --minimal
-        OMZ + Theme only.
+        Theme only.
         Also has a sub-option:
             --yes
                 Zero interaction, automated.
