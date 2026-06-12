@@ -16,12 +16,11 @@ cd OhMyWin
 # Flags
     --minimal
         Theme only.
-        Also has a sub-option:
-            --yes
-                Zero interaction, automated.
     
     --full
         Everything installed + copyright banner (like on Windows) enabled. (Not needed if you don't need to see the copyright and your OS's name)
-
+        Also has a sub-option:
+            --yes
+                Zero interaction, automated.
     --custom
         Ask for everything. (Can be set up for yourself (doesn't have colors))
