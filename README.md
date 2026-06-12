@@ -10,7 +10,8 @@ To install, you need:
 To install, type into your console:
 ```git clone https://github.com/Marmarek-here/OhMyWin
 cd OhMyWin
-./install.sh --full --yes```
+./install.sh --full --yes
+```
 
 # Flags
     --minimal
